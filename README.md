@@ -92,5 +92,7 @@ The interactive dashboard will open in your browser.
 ## 🚀 Prototype Link
 *   **Live Demo:** [https://safeloan-flexloan.streamlit.app](https://safeloan-flexloan.streamlit.app)
 
+*   ⚠️ Note: The app is hosted on Streamlit Community Cloud. If inactive, it may go to sleep. Please click “Wake up app” and wait a few seconds.
+
 ## 🌍 Impact
 SafeLoan demonstrates how **Agentic AI** can create fair, transparent, and adaptive financial systems. By preventing defaults instead of penalizing them, SafeLoan enables sustainable credit access for millions of workers with irregular income.
