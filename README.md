@@ -90,7 +90,7 @@ The system ingests the borrower’s income for the current month.
 The interactive dashboard will open in your browser.
 
 ## 🚀 Prototype Link
-*   **Live Demo:** [https://finance-agent-system.streamlit.app/] (https://finance-agent-system.streamlit.app/))
+*   **Live Demo:** (https://finance-agent-system.streamlit.app/))
 
 *   ⚠️ Note: The app is hosted on Streamlit Community Cloud. If inactive, it may go to sleep. Please click “Wake up app” and wait a few seconds.
 
